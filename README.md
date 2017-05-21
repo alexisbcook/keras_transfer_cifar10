@@ -17,3 +17,7 @@ pip install git+https://github.com/alexisbcook/tsne.git
 The bottleneck features are then fed to a shallow CNN for image classification.  The model attains a test accuracy of 82.68%.
 
 ![t-SNE][image1]
+
+## Blog Post
+
+This repository is discussed in the blog post [here](https://alexisbcook.github.io/2017/using-transfer-learning-to-classify-images-with-keras/).
